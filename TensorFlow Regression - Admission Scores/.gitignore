@@ -1,0 +1,10 @@
+# IPython Notebook checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio project settings
+.vs/
+
+# Visual Studio Code settings
+.vscode/
+
+4.2.0
