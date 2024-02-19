@@ -2,6 +2,8 @@
   <h2><b>Meteorite Landings Analysis Project<b></h2>
 </div>
 
+![Global Mass Distribution](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/Global%20Mass%20Distribution.png?raw=true)
+
 Data Source: [NASA Meteorite Dataset](https://www.kaggle.com/datasets/sujaykapadnis/meteorites-dataset)
 
 Notebook Submission: [NASA Meteorite Analysis](https://www.kaggle.com/code/godragons6/nasa-meteorites-a-comprehensive-overview)
