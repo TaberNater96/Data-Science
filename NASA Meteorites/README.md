@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Meteorite Landings Analysis Project<b></h2>
+  <h2><b>Meteorite Landings Analysis with XGBoost Regression<b></h2>
 </div>
 
 ![Global Mass Distribution](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/Global%20Mass%20Distribution.png?raw=true)
@@ -8,55 +8,20 @@ Data Source: [NASA Meteorite Dataset](https://www.kaggle.com/datasets/sujaykapad
 
 Notebook Submission: [NASA Meteorite Analysis](https://www.kaggle.com/code/godragons6/nasa-meteorites-a-comprehensive-overview)
 
-## Project Overview
+## Project Synopsis
 
-This project delves into an extensive dataset of meteorite landings, focusing on a comprehensive analysis of the data provided by NASA. The dataset encompasses a wide array of meteorites that have been documented over the years, including their classifications, mass, the circumstances of their discovery (fell or found), and geographical information regarding where they were located on Earth.
+In this project, we explored an open-source dataset from NASA, hosted on Kaggle, encompassing all known meteorite discoveries up until 2014. This exploration unearthed some fascinating insights into the characteristics and distribution of meteorites across the globe, particularly highlighting the peculiar traits of relict meteorites—ancient meteorites significantly larger than their counterparts and found predominantly in specific locales, such as the cold, arid regions near the Earth's poles, including the Northern Baltics and Antarctic areas. The clustering of these ancient meteorites in such distinct regions sparked curiosity about the underlying causes of their preservation and distribution patterns.
 
-Unlike many data science endeavors aimed at solving specific problems, this project is exploratory in nature. It aims to uncover patterns, trends, and insights within the data through a rigorous process of analysis and visualization. The project highlights the power of data science in enhancing our understanding of natural phenomena, in this case, meteorite landings, without a predefined problem statement. The goal is to provide a deeper insight into the dataset's characteristics and to showcase the analytical capabilities and techniques used in data science.
+Delving into this phenomenon, my analysis shed light on a topic that has seen limited discussion within the Planetary Science Community. This piqued my interest further, prompting a deeper investigation into the environmental factors contributing to the longevity of these ancient meteorites. My background in physics and geology led me to theorize that certain conditions—such as specific soil types, minimal wind exposure, and perpetual ice cover—create an ideal preservation environment by minimizing erosion.
 
-## Data Description
+The culmination of this project was the development of an advanced XGBoost Regression model designed to predict future meteorite impacts through time series analysis. The model demonstrated exceptional performance, as evidenced by its validation scores:
 
-The dataset, `meteorites.csv`, comprises over 45,000 entries, each representing a meteorite that has been documented. The attributes include:
+- Mean Absolute Error: 0.81
+- Mean Squared Error: 0.65
+- MAE Variance Accountability: 0.000225
 
-- **Name**: The name of the meteorite, which is often derived from the location it was found or observed.
-- **ID**: A unique identifier for the meteorite.
-- **Name Type**: The validation status of the name (all entries in this dataset are marked as 'Valid').
-- **Class**: The classification of the meteorite, which provides information about its composition.
-- **Mass (g)**: The mass of the meteorite in grams.
-- **Fall**: Indicates whether the meteorite was observed falling or was found after its fall.
-- **Year**: The year the meteorite fell or was found.
-- **Latitude** and **Longitude**: The geographical coordinates of the meteorite's landing or discovery location.
-- **Geolocation**: A combined field providing the latitude and longitude.
+![ML Output](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/ML%20Output.png?raw=true)
 
-## Methodology
+These metrics attest to the high accuracy and reliability of the predictive model. Additionally, the alignment of the model's predictions with actual data from NASA underscores its potential utility in forecasting meteorite impacts.
 
-The analysis was conducted in a Jupyter Notebook environment, leveraging Python's robust data analysis and visualization libraries, including Pandas, NumPy, and Matplotlib. The project was structured into several key phases:
-
-### 1. Data Loading and Cleaning
-The initial step involved loading the data from the CSV file and conducting a preliminary assessment of its quality and structure. This phase identified any missing or inconsistent data entries and addressed them through cleaning techniques such as filling missing values, correcting data types, and removing duplicates if any.
-
-### 2. Exploratory Data Analysis (EDA)
-The EDA phase aimed to understand the dataset's underlying structure and patterns. It involved:
-- Statistical summaries to capture the central tendency, dispersion, and shape of the dataset's numerical distributions.
-- Classification analysis to explore the different types of meteorites in the dataset.
-- Temporal analysis to examine the distribution of meteorite falls and finds over the years.
-
-### 3. Geographical Analysis
-Given the dataset's rich geographical information, spatial analysis was performed to visualize the global distribution of meteorite landings. This involved mapping the locations of meteorites, highlighting areas with higher densities of landings, and examining any geographical patterns or anomalies.
-
-### 4. Mass Distribution Analysis
-The project also focused on analyzing the mass distribution of meteorites, identifying trends in the sizes of meteorites that have landed on Earth. This included categorizing meteorites by mass and exploring the relationship between mass and other factors such as fall type and geographical location.
-
-### 5. Insights and Conclusions
-The final phase synthesized the findings from the analysis, drawing conclusions about the distribution, classification, and characteristics of meteorite landings. Insights regarding temporal trends, geographical patterns, and the physical properties of meteorites were highlighted.
-
-## Insights Gained
-
-The project unearthed several interesting insights into meteorite landings, such as:
-- The temporal distribution of meteorite findings, with notable increases in certain periods.
-- The geographical spread of meteorites, indicating certain regions with higher frequencies of landings.
-- The mass distribution of meteorites, revealing a predominance of smaller mass meteorites but with occasional significant outliers.
-
-## Conclusion
-
-This project exemplifies the exploratory nature of data science, where the journey through the data reveals as much value as the destination. By applying a variety of data analysis techniques, it provides a detailed examination of the meteorite landings dataset, offering insights into the patterns and characteristics of these fascinating natural phenomena. Through this analysis, the project showcases the potential of data science to explore and understand the world around us, even when not driven by a specific problem-solving agenda.
+This project not only provided unique insights into the distribution and characteristics of meteorites but also highlighted the potential of machine learning techniques in advancing our understanding of these celestial objects. The findings serve as a stepping stone for future research, opening avenues for collaboration with experts in the field to further unravel the mysteries of meteorites. As we continue to explore these ancient visitors from space, we edge closer to unlocking the secrets of our universe, underscoring the importance of interdisciplinary research in expanding the frontiers of knowledge.
