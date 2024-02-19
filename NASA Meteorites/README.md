@@ -1,4 +1,6 @@
 # Meteorite Landings Analysis Project
+Data Source: [NASA Meteorite Dataset](https://www.kaggle.com/datasets/sujaykapadnis/meteorites-dataset)
+Notebook Submission: [NASA Meteorite Analysis](https://www.kaggle.com/code/godragons6/nasa-meteorites-a-comprehensive-overview)
 
 ## Project Overview
 
