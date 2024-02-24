@@ -1,6 +1,5 @@
-<div align="center">
-  <h2><b>Meteorite Landings Analysis with XGBoost Regression<b></h2>
-</div>
+<center><h1>Tackle Opportunity Window</h1></center>
+&nbsp;
 
 ![Global Mass Distribution](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/Global%20Mass%20Distribution.png?raw=true)
 
