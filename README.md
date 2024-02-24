@@ -1,2 +1,5 @@
-# Data-Science
-Repository of various data science projects and challenges.
+<div align="center">
+  <h2><b>Data Science Projects & Challenges<b></h2>
+</div>
+
+&nbsp;
