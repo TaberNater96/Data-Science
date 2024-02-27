@@ -23,6 +23,7 @@ The projects featured within this repository uncover patterns through both data 
 
 ## Table of Contents
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
+- [TensorFlow Regression Challenge](tensorFlow-regression-challenge)
 
 <div id="nasa-meteorite-analysis">
   <h2>NASA Meteorite Analysis</h2>
@@ -33,3 +34,9 @@ The projects featured within this repository uncover patterns through both data 
 This project delved into NASA's meteorite dataset, uncovering unique insights into global meteorite characteristics, especially ancient, larger relict meteorites found mainly near Earth's poles. It highlighted how certain environmental conditions foster preservation, minimizing erosion. An advanced XGBoost Regression model was developed to predict future meteorite impacts with very high accuracy, showcasing the potential of machine learning in understanding celestial phenomena.
 
 ![ML Output](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/ML%20Output.png?raw=true)
+
+<div id="tensorFlow-regression-challenge">
+  <h2>TensorFlow Regression Challenge</h2>
+</div>
+
+![MAE Score](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/MAE%20Score.png?raw=true)
