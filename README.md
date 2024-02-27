@@ -39,4 +39,7 @@ This project delved into NASA's meteorite dataset, uncovering unique insights in
   <h2>TensorFlow Regression Challenge</h2>
 </div>
 
+
+The purpose of this project is to create a deep learning regression model that predicts the likelihood that a student applying to graduate school will be accepted based on various application factors (such as test scores). The hope here is to give further insight into the graduate admissions process to improve test prep strategy.
+
 ![MAE Score](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/MAE%20Score.png?raw=true)
