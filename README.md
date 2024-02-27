@@ -11,6 +11,8 @@
   - [TensorFlow Regression Challenge](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/TensorFlow%20Regression%20Challenge.ipynb)
 </details>
 
+&nbsp;
+
 This data science repository serves as a pivotal resource for navigating the complexities of data analysis and interpretation, symbolizing the future of technology where data science becomes the cornerstone. It highlights how data scientists play an essential role in bridging the gap between the intricate world of artificial intelligence (AI) and those without a technical background, making complex data accessible to all and enabling organizations to harness the full potential of AI.
 
 As users embark on their journey with this repository, they are introduced to the transformative truths hidden within datasets. The knowledge gained here covers a broad spectrum of data science methodologies, from the basics to advanced applications in machine learning and deep learning. This repository stands at the forefront of an era where emerging minds leverage data science, guiding novices through the data-driven landscape with dynamic processes that delve into the essence of data for analysis and interpretation.
