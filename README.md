@@ -23,7 +23,7 @@ The projects featured within this repository uncover patterns through both data 
 
 ## Table of Contents
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
-- [TensorFlow Regression Challenge](tensorflow-regression-challenge)
+- [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 
 <div id="nasa-meteorite-analysis">
   <h2>NASA Meteorite Analysis</h2>
