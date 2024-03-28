@@ -9,6 +9,7 @@
 
   - [NASA Meteorite Analysis](https://github.com/TaberNater96/Data-Science/tree/main/NASA%20Meteorites)
   - [TensorFlow Regression Challenge](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/TensorFlow%20Regression%20Challenge.ipynb)
+  - [PySpark - Web Crawler Analysis](https://github.com/TaberNater96/Data-Science/blob/main/Big%20Data%20with%20PySpark/PySpark%20-%20Web%20Crawler%20Analysis.ipynb)
 </details>
 
 &nbsp;
@@ -26,6 +27,7 @@ The projects featured within this repository uncover patterns through both data 
 ## Table of Contents
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
+- [PySpark - Web Crawler Analysis](#)
 
 <div id="nasa-meteorite-analysis">
   <h2>NASA Meteorite Analysis</h2>
@@ -45,3 +47,20 @@ This project delved into NASA's meteorite dataset, uncovering unique insights in
 The purpose of this project is to create a deep learning regression model that predicts the likelihood that a student applying to graduate school will be accepted based on various application factors (such as test scores). The hope here is to give further insight into the graduate admissions process to improve test prep strategy. This model resulted in an MSE score of 0.0044 and an MAE score of 0.0505.
 
 ![MAE Score](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/MAE%20Score.png?raw=true)
+
+<div id="PySpark - Web Crawler Analysis">
+  <h2>PySpark - Web Crawler Analysis</h2>
+</div>
+
+This project leverages PySpark to analyze web domain data from the Common Crawl dataset, focusing on understanding the distribution of internet domains and their subdomains. By initializing Spark Sessions and Contexts, it reads domain information into resilient distributed datasets (RDDs) and DataFrames, demonstrating PySpark's ability to handle big data processing efficiently. The analysis involves formatting the data, extracting key domain metrics, and aggregating subdomain counts to unveil insights into the web's structure. Through transformations, aggregations, and SQL queries, the project explores domain counts across different top-level domains, calculates total subdomains, and filters specific entries, like government domains, to assess their internet presence. This use of PySpark illustrates its powerful capabilities in data manipulation, storage, and complex querying, showcasing how big data technologies can provide deep insights into vast datasets like Common Crawl.
+
+
+
+
+
+
+
+
+
+
+
