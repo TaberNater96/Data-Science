@@ -27,7 +27,7 @@ The projects featured within this repository uncover patterns through both data 
 ## Table of Contents
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
-- [PySpark - Web Crawler Analysis](#)
+- [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 
 <div id="nasa-meteorite-analysis">
   <h2>NASA Meteorite Analysis</h2>
@@ -48,7 +48,7 @@ The purpose of this project is to create a deep learning regression model that p
 
 ![MAE Score](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/MAE%20Score.png?raw=true)
 
-<div id="PySpark - Web Crawler Analysis">
+<div id="pyspark-web-crawler-analysis">
   <h2>PySpark - Web Crawler Analysis</h2>
 </div>
 
