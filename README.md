@@ -26,9 +26,24 @@ The projects featured within this repository uncover patterns through both data 
 </div>
 
 ## Table of Contents
+- [US Wind Power Production with ARIMA](#us-wind-power-production-with-arima)
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
+
+<div id="us-wind-power-production-with-arima">
+  <h2>US Wind Power Production with ARIMAs</h2>
+</div>
+
+The "US Wind Power Production with ARIMA" notebook offers a detailed analysis aimed at understanding and forecasting US wind power production. After the data is prepared and cleaned, it addresses missing values and refines the dataset for analysis. A significant portion is dedicated to exploratory data analysis (EDA), identifying Texas as the leading state in wind power production and examining the correlation between production outputs across states. This suggests a shared influence of climatic conditions or energy policies. The notebook's core objective is to forecast future wind power production values using the ARIMA (AutoRegressive Integrated Moving Average) model, indicating a focus on predictive analytics to discern temporal patterns and guide future renewable energy strategies. The focus here is to showcase an ability to perform a deep and detailed analysis given a relatively small and limited dataset.
+
+![Correlation Matrix](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/Images/Correlation%20Matrix.png?raw=true)
+
+Values between 0.90 and 0.99 indicate a very high positive correlation in wind power output across states, often due to similar climatic conditions and regional energy policies, leading to synchronous growth in wind energy. Conversely, dark blue values indicate a moderately inverse relationship, where an increase in wind energy in one state corresponds to a decrease in another, likely due to geographical and weather system diversity. Understanding these correlations is vital for energy planning, as states with high correlations might not ensure energy security during dips, whereas those with inverse relationships could help stabilize the national energy grid. 
+
+#### ARIMA Model Results For National Wind Power Generation
+
+![ARIMA Output](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/Images/ARIMA%20Output.png?raw=true)
 
 <div id="nasa-meteorite-analysis">
   <h2>NASA Meteorite Analysis</h2>
