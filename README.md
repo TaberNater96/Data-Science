@@ -11,6 +11,7 @@
   - [NASA Meteorite Analysis](https://github.com/TaberNater96/Data-Science/tree/main/NASA%20Meteorites)
   - [TensorFlow Regression Challenge](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/TensorFlow%20Regression%20Challenge.ipynb)
   - [PySpark - Web Crawler Analysis](https://github.com/TaberNater96/Data-Science/blob/main/Big%20Data%20with%20PySpark/PySpark%20-%20Web%20Crawler%20Analysis.ipynb)
+  - [PySpark - Wikipedia Clickstream Data](https://github.com/TaberNater96/Data-Science/blob/main/Big%20Data%20with%20PySpark/PySpark%20-%20Wikipedia%20Clickstream%20Data.ipynb)
 </details>
 
 &nbsp;
@@ -30,6 +31,7 @@ The projects featured within this repository uncover patterns through both data 
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
+- [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
 
 <div id="us-wind-power-production-with-arima">
   <h2>US Wind Power Production with ARIMAs</h2>
@@ -70,7 +72,15 @@ The purpose of this project is to create a deep learning regression model that p
 
 This project leverages PySpark to analyze web domain data from the Common Crawl dataset, focusing on understanding the distribution of internet domains and their subdomains. By initializing Spark Sessions and Contexts, it reads domain information into resilient distributed datasets (RDDs) and DataFrames, demonstrating PySpark's ability to handle big data processing efficiently. The analysis involves formatting the data, extracting key domain metrics, and aggregating subdomain counts to unveil insights into the web's structure. Through transformations, aggregations, and SQL queries, the project explores domain counts across different top-level domains, calculates total subdomains, and filters specific entries, like government domains, to assess their internet presence. This use of PySpark illustrates its powerful capabilities in data manipulation, storage, and complex querying, showcasing how big data technologies can provide deep insights into vast datasets like Common Crawl.
 
+<div id="pyspark-wikipedia-clickstream-data">
+  <h2>PySpark - Wikipedia Clickstream Data</h2>
+</div>
 
+This project aims to demonstrate the application of PySpark for analyzing Wikipedia clickstream data. At the outset, it guides users through the initiation of a new PySpark session, setting the stage for data exploration and analysis. The core of this project involves the creation of a Resilient Distributed Dataset (RDD) derived from sample clickstream counts, illustrating the process of transforming raw data into a structured format suitable for analysis.
+
+Throughout this endeavor, we focus on the manipulation of data within the PySpark RDD framework, specifically targeting clickstream data to uncover traffic patterns across Wikipedia pages. This involves a detailed examination of how users navigate through Wikipedia, identifying trends and insights that can inform our understanding of digital behavior and information flow on the web.
+
+By leveraging PySpark's powerful data processing capabilities, this project offers a hands-on experience in handling large-scale data, providing a practical understanding of RDDs and their significance in distributed data processing. Through this analysis, we aim to shed light on the complexities of web traffic and user interactions on one of the world's largest repositories of knowledge, Wikipedia, thereby contributing to the broader field of data science and analytics.
 
 
 
