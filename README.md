@@ -23,7 +23,7 @@ Users navigating through this repository are introduced to the transformative tr
 The projects featured within this repository uncover patterns through both data visualization and statistical analysis, establishing a foundation for algorithms that predict outcomes and categorize information in real-life scenarios. Whether users are captivated by the visual beauty of data or the precision of predictive algorithms, this repository offers a first step towards a comprehensive understanding of data science. It combines creative insights with practical, example-driven knowledge, fostering independent exploration in the data science journey and demonstrating the transformative role of data science in connecting advanced technology with practical applications.
 
 <div align="center">
-  <h2>Quick Summaries</h2>
+  <h2>Quick Summaries (TLDR)</h2>
 </div>
 
 ## Table of Contents
