@@ -34,7 +34,7 @@ The projects featured within this repository uncover patterns through both data 
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
 
 <div id="us-wind-power-production-with-arima" align="center">
-  <h2>US Wind Power Production with ARIMAs</h2>
+  <h2>US Wind Power Production with ARIMA</h2>
 </div>
 
 The "US Wind Power Production with ARIMA" notebook offers a detailed analysis aimed at understanding and forecasting US wind power production. After the data is prepared and cleaned, it addresses missing values and refines the dataset for analysis. A significant portion is dedicated to exploratory data analysis (EDA), identifying Texas as the leading state in wind power production and examining the correlation between production outputs across states. This suggests a shared influence of climatic conditions or energy policies. The notebook's core objective is to forecast future wind power production values using the ARIMA (AutoRegressive Integrated Moving Average) model, indicating a focus on predictive analytics to discern temporal patterns and guide future renewable energy strategies. The focus here is to showcase an ability to perform a deep and detailed analysis given a relatively small and limited dataset.
