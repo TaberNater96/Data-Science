@@ -33,7 +33,7 @@ The projects featured within this repository uncover patterns through both data 
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
 
-<div id="us-wind-power-production-with-arima">
+<div id="us-wind-power-production-with-arima" align="center">
   <h2>US Wind Power Production with ARIMAs</h2>
 </div>
 
@@ -47,7 +47,7 @@ Values between 0.90 and 0.99 indicate a very high positive correlation in wind p
 
 ![ARIMA Output](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/Images/ARIMA%20Output.png?raw=true)
 
-<div id="nasa-meteorite-analysis">
+<div id="nasa-meteorite-analysis" align="center">
   <h2>NASA Meteorite Analysis</h2>
 </div>
 
@@ -57,7 +57,7 @@ This project delved into NASA's meteorite dataset, uncovering unique insights in
 
 ![ML Output](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/ML%20Output.png?raw=true)
 
-<div id="tensorflow-regression-challenge">
+<div id="tensorflow-regression-challenge" align="center">
   <h2>TensorFlow Regression Challenge</h2>
 </div>
 
@@ -66,13 +66,13 @@ The purpose of this project is to create a deep learning regression model that p
 
 ![MAE Score](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/MAE%20Score.png?raw=true)
 
-<div id="pyspark-web-crawler-analysis">
+<div id="pyspark-web-crawler-analysis" align="center">
   <h2>PySpark - Web Crawler Analysis</h2>
 </div>
 
 This project leverages PySpark to analyze web domain data from the Common Crawl dataset, focusing on understanding the distribution of internet domains and their subdomains. By initializing Spark Sessions and Contexts, it reads domain information into resilient distributed datasets (RDDs) and DataFrames, demonstrating PySpark's ability to handle big data processing efficiently. The analysis involves formatting the data, extracting key domain metrics, and aggregating subdomain counts to unveil insights into the web's structure. Through transformations, aggregations, and SQL queries, the project explores domain counts across different top-level domains, calculates total subdomains, and filters specific entries, like government domains, to assess their internet presence. This use of PySpark illustrates its powerful capabilities in data manipulation, storage, and complex querying, showcasing how big data technologies can provide deep insights into vast datasets like Common Crawl.
 
-<div id="pyspark-wikipedia-clickstream-data">
+<div id="pyspark-wikipedia-clickstream-data" align="center">
   <h2>PySpark - Wikipedia Clickstream Data</h2>
 </div>
 
