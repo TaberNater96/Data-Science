@@ -1,0 +1,1 @@
+# Repository initialization file for the CorpusCondenser package.
