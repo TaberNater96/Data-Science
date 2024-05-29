@@ -45,7 +45,7 @@ For my term project in my Data Mining: Text Analytics class, I created a hybrid 
 
 This repository is a full pipeline project that uses advanced pre-trained frameworks such as Hugging Face’s AutoTokenizer and Facebook’s BART to extract and summarize the most important information. The core interface is a custom-built streamlit app where the user can easily upload a PDF and the NLP pipeline will generate and output a summary, no matter how long or complicated the document. This project serves as a foundation for a larger and more in-depth NLP pipeline and is set up to be highly customizable and adjustable.
 
-#### Usage
+## Usage
 **Clone the repository and run the following:**
 
 ```sh
