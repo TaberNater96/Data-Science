@@ -7,6 +7,7 @@
 <details>
   <summary><b>Click Here To Navigate To Each Repository<b></summary>
 
+  - [Hybrid Text Summarization Engine](https://github.com/TaberNater96/Data-Science/tree/main/Hybrid%20Text%20Summarization%20Engine)
   - [US Wind Power Production with ARIMA](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/US%20Wind%20Power%20Production%20with%20ARIMA.ipynb)
   - [NASA Meteorite Analysis](https://github.com/TaberNater96/Data-Science/tree/main/NASA%20Meteorites)
   - [TensorFlow Regression Challenge](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/TensorFlow%20Regression%20Challenge.ipynb)
@@ -27,11 +28,18 @@ The projects featured within this repository uncover patterns through both data 
 </div>
 
 ## Table of Contents
+- [Hybrid Text Summarization Engine](#hybrid-text-summarization-engine)
 - [US Wind Power Production with ARIMA](#us-wind-power-production-with-arima)
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
+
+<div id="hybrid-text-summarization-engine" align="center">
+  <h2>Hybrid Text Summarization Engine</h2>
+</div>
+
+For my term project in my Data Mining: Text Analytics class, I created a hybrid text classification engine that utilizes the power of both an extractive and abstractive model, where the extractive model selects the most important information, while the abstractive model conveys the most critical information. This is a full pipeline project that uses advanced pre-trained frameworks such as Hugging Face’s AutoTokenizer and Facebook’s BART to extract and summarize the most important information. The core interface is a custom-built streamlit app where the user can easily upload a PDF and the NLP pipeline will generate and output a summary, no matter how long or complicated the document.
 
 <div id="us-wind-power-production-with-arima" align="center">
   <h2>US Wind Power Production with ARIMA</h2>
@@ -60,7 +68,6 @@ This project delved into NASA's meteorite dataset, uncovering unique insights in
 <div id="tensorflow-regression-challenge" align="center">
   <h2>TensorFlow Regression Challenge</h2>
 </div>
-
 
 The purpose of this project is to create a deep learning regression model that predicts the likelihood that a student applying to graduate school will be accepted based on various application factors (such as test scores). The hope here is to give further insight into the graduate admissions process to improve test prep strategy. This model resulted in an MSE score of 0.0044 and an MAE score of 0.0505.
 
