@@ -39,6 +39,8 @@ The projects featured within this repository uncover patterns through both data 
   <h2>Hybrid Text Summarization Engine</h2>
 </div>
 
+https://github.com/TaberNater96/Data-Science/assets/127979108/c95b2d02-4948-45a4-8678-1ac320443429
+
 For my term project in my Data Mining: Text Analytics class, I created a hybrid text classification engine that utilizes the power of both an extractive and abstractive model, where the extractive model selects the most important information, while the abstractive model conveys the most critical information. This is a full pipeline project that uses advanced pre-trained frameworks such as Hugging Face’s AutoTokenizer and Facebook’s BART to extract and summarize the most important information. The core interface is a custom-built streamlit app where the user can easily upload a PDF and the NLP pipeline will generate and output a summary, no matter how long or complicated the document. This project serves as a foundation for a larger and more in-depth NLP pipeline and is set up to be highly customizable and adjustable.
 
 <div id="us-wind-power-production-with-arima" align="center">
