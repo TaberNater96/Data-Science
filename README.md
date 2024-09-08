@@ -43,8 +43,8 @@ The projects featured within this repository uncover patterns through both data 
 </div>
 
 ## Power BI
-[Global Renewable Energy Production.pdf](https://github.com/user-attachments/files/16923984/Global.Renewable.Energy.Production.pdf)
-[Amazon Video Dashboard.pdf](https://github.com/user-attachments/files/16923988/Amazon.Video.Dashboard.pdf)
+![Global Renewable Energy Production](https://github.com/user-attachments/assets/bd44313e-a84b-4ef7-b9e5-94472c60f2c7)
+![Amazon Video Dashboard](https://github.com/user-attachments/assets/3af68fe9-f5d2-4dd8-afe2-e5e1410f9e64)
 
 ## Tableau
 ![Hollywood Stories](https://github.com/user-attachments/assets/8058a127-055b-4008-a0cd-6c88b1c90fab)
