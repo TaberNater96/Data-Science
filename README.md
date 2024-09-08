@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><b>Data Science Projects & Challenges<b></h2>
+  <h1><b>Data Science Projects & Challenges<b></h1>
 </div>
 
 &nbsp;
@@ -7,12 +7,14 @@
 <details>
   <summary><b>Click Here To Navigate To Each Repository<b></summary>
 
+  - [Dashboards Built Using Tableau & Power BI](https://github.com/TaberNater96/Data-Science/tree/main/Dashboards)
   - [Hybrid Text Summarization Engine](https://github.com/TaberNater96/Data-Science/tree/main/Hybrid%20Text%20Summarization%20Engine)
   - [US Wind Power Production with ARIMA](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/US%20Wind%20Power%20Production%20with%20ARIMA.ipynb)
   - [NASA Meteorite Analysis](https://github.com/TaberNater96/Data-Science/tree/main/NASA%20Meteorites)
   - [TensorFlow Regression Challenge](https://github.com/TaberNater96/Data-Science/blob/main/TensorFlow%20Regression%20-%20Admission%20Scores/TensorFlow%20Regression%20Challenge.ipynb)
   - [PySpark - Web Crawler Analysis](https://github.com/TaberNater96/Data-Science/blob/main/Big%20Data%20with%20PySpark/PySpark%20-%20Web%20Crawler%20Analysis.ipynb)
   - [PySpark - Wikipedia Clickstream Data](https://github.com/TaberNater96/Data-Science/blob/main/Big%20Data%20with%20PySpark/PySpark%20-%20Wikipedia%20Clickstream%20Data.ipynb)
+
 </details>
 
 &nbsp;
@@ -28,12 +30,24 @@ The projects featured within this repository uncover patterns through both data 
 </div>
 
 ## Table of Contents
+- [Dashboards](#dashboards)
 - [Hybrid Text Summarization Engine](#hybrid-text-summarization-engine)
 - [US Wind Power Production with ARIMA](#us-wind-power-production-with-arima)
 - [NASA Meteorite Analysis](#nasa-meteorite-analysis)
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
+
+<div id="dashboards" align="center">
+  <h2>Dashboards</h2>
+</div>
+
+## Power BI
+[Global Renewable Energy Production.pdf](https://github.com/user-attachments/files/16923984/Global.Renewable.Energy.Production.pdf)
+[Amazon Video Dashboard.pdf](https://github.com/user-attachments/files/16923988/Amazon.Video.Dashboard.pdf)
+
+## Tableau
+![Hollywood Stories](https://github.com/user-attachments/assets/8058a127-055b-4008-a0cd-6c88b1c90fab)
 
 <div id="hybrid-text-summarization-engine" align="center">
   <h2>Hybrid Text Summarization Engine</h2>
