@@ -30,6 +30,7 @@ The projects featured within this repository uncover patterns through both data 
   <h2>Quick Summaries (TLDR)</h2>
 </div>
 
+<a name="top"></a>
 ## Table of Contents
 
 - [Tackle Opportunity Window](#tackle-opportunity-window)
@@ -79,6 +80,8 @@ Owing to the intrinsic capabilities of a neural network, particularly its adeptn
 
 To speak plainly, I am indeed the first to develop the TOW metric within the field of football analytics, demonstrating an ability to innovate and pioneer new methodologies in the realm of data science. This metric offers a fresh perspective by focusing on the precise moments a player remains within a strategic distance to make a successful tackle, thereby introducing a novel way to evaluate defensive actions. The project not only showcases my technical skills in handling large-scale data and complex statistical models but also highlights my creativity in generating new solutions to analyze performance metrics. By identifying and crafting a new evaluative metric, I have set a new standard in sports analytics for projects to build off of when analyzing tackle metrics, proving my capacity to lead and innovate in the field. This initiative demonstrates not just analytical acumen but also a visionary approach to transforming how data insights drive strategic decisions.
 
+[⬆️ Back to table of contents](#top)
+
 <div id="dashboards" align="center">
   <h2>Dashboards</h2>
 </div>
@@ -89,6 +92,8 @@ To speak plainly, I am indeed the first to develop the TOW metric within the fie
 
 ## Tableau
 ![Hollywood Stories](https://github.com/user-attachments/assets/8058a127-055b-4008-a0cd-6c88b1c90fab)
+
+[⬆️ Back to table of contents](#top)
 
 <div id="hybrid-text-summarization-engine" align="center">
   <h2>Hybrid Text Summarization Engine</h2>
@@ -107,6 +112,8 @@ This repository is a full pipeline project that uses advanced pre-trained framew
 streamlit run main.py
 ```
 
+[⬆️ Back to table of contents](#top)
+
 <div id="us-wind-power-production-with-arima" align="center">
   <h2>US Wind Power Production with ARIMA</h2>
 </div>
@@ -121,6 +128,8 @@ Values between 0.90 and 0.99 indicate a very high positive correlation in wind p
 
 ![ARIMA Output](https://github.com/TaberNater96/Data-Science/blob/main/US%20Wind%20Power%20Production%20with%20ARIMA/Images/ARIMA%20Output.png?raw=true)
 
+[⬆️ Back to table of contents](#top)
+
 <div id="nasa-meteorite-analysis" align="center">
   <h2>NASA Meteorite Analysis</h2>
 </div>
@@ -130,6 +139,8 @@ Values between 0.90 and 0.99 indicate a very high positive correlation in wind p
 This project delved into NASA's meteorite dataset, uncovering unique insights into global meteorite characteristics, especially ancient, larger, relict meteorites found mainly near Earth's poles. The above screenshot is just a single photo of the interactive map that allows users to see the exact coordinates, mass, and name of all known meteorites on Earth when they hover over. This program is computationally expensive, hence a screenshot. The results highlighted how certain environmental conditions foster preservation, minimizing erosion. An advanced XGBoost Regression model was developed to predict future meteorite impacts with very high accuracy, showcasing the potential of machine learning in understanding celestial phenomena. 
 
 ![ML Output](https://github.com/TaberNater96/Data-Science/blob/main/NASA%20Meteorites/images/ML%20Output.png?raw=true)
+
+[⬆️ Back to table of contents](#top)
 
 <div id="tensorflow-regression-challenge" align="center">
   <h2>TensorFlow Regression Challenge</h2>
@@ -155,7 +166,7 @@ Throughout this endeavor, we focus on the manipulation of data within the PySpar
 
 By leveraging PySpark's powerful data processing capabilities, this project offers a hands-on experience in handling large-scale data, providing a practical understanding of RDDs and their significance in distributed data processing. Through this analysis, we aim to shed light on the complexities of web traffic and user interactions on one of the world's largest repositories of knowledge, Wikipedia, thereby contributing to the broader field of data science and analytics.
 
-
+[⬆️ Back to table of contents](#top)
 
 
 
