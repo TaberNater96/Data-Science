@@ -91,6 +91,9 @@ To speak plainly, I am indeed the first to develop the TOW metric within the fie
 ## Tableau
 ![Hollywood Stories](https://github.com/user-attachments/assets/8058a127-055b-4008-a0cd-6c88b1c90fab)
 
+## Excel
+![Coffee Orders](https://github.com/TaberNater96/Data-Science/blob/main/Dashboards/Images/Coffee%20Orders.png?raw=true)
+
 [⬆️ Back to table of contents](#top)
 
 <div id="hybrid-text-summarization-engine" align="center">
