@@ -83,6 +83,11 @@ To speak plainly, I am indeed the first to develop the TOW metric within the fie
 <div id="dashboards" align="center">
   <h2>Dashboards</h2>
 </div>
+<div>
+  <p>
+    All dashboards can be downloaded and interacted with from the <a href="https://github.com/TaberNater96/Data-Science/tree/main/Dashboards/Interactive%20Dashboards" target="_blank">Dashboards</a> repository. The following is just a preview.
+  </p>
+</div>
 
 ## Power BI
 ![Global Renewable Energy Production](https://github.com/user-attachments/assets/bd44313e-a84b-4ef7-b9e5-94472c60f2c7)
