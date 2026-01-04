@@ -7,6 +7,7 @@
 <details>
   <summary><b>Click Here To Navigate To Each Repository<b></summary>
 
+  - [WISE-NEOWISE Asteroid & Comet Analysis](https://github.com/TaberNater96/Data-Science/tree/main/WISE%E2%80%93NEOWISE)
   - [Tackle Opportunity Window](https://github.com/TaberNater96/Data-Science/tree/main/NFL%20Big%20Data%20Bowl%202024)
   - [Dashboards Built Using Tableau & Power BI](https://github.com/TaberNater96/Data-Science/tree/main/Dashboards)
   - [Hybrid Text Summarization Engine](https://github.com/TaberNater96/Data-Science/tree/main/Hybrid%20Text%20Summarization%20Engine)
@@ -29,6 +30,7 @@ This repository showcases a collection of data science projects that show the po
 <a name="top"></a>
 ## Table of Contents
 
+- [WISE-NEOWISE Asteroid & Comet Analysis](#wise-neowise-asteroid-comet-analysis)
 - [Tackle Opportunity Window](#tackle-opportunity-window)
 - [Dashboards](#dashboards)
 - [Hybrid Text Summarization Engine](#hybrid-text-summarization-engine)
@@ -37,6 +39,18 @@ This repository showcases a collection of data science projects that show the po
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
+
+<div id="wise-neowise-asteroid-comet-analysis">
+  <h2>WISE-NEOWISE Asteroid & Comet Analysis</h2>
+</div>
+
+<div align="center">
+  <img width="900" height="775" alt="wise-neowise" src="https://github.com/user-attachments/assets/12f51f2b-8235-48e7-9b57-3e5b5501d529" />
+</div>
+
+&nbsp;
+
+This project analyzes 202 near-Earth objects (asteroids and comets) from NASA's WISE-NEOWISE dataset, exploring their orbital characteristics including semi-major axis, eccentricity, perihelion/aphelion distances, orbital inclination, and the Tisserand parameter relative to Jupiter. The analysis involved data cleaning (renaming columns, reorganizing features, and removing redundant log-transformed variables) and classification of objects by orbit type (Apollo, Amor, and comets), eccentricity segment, and potential hazard status. The centerpiece visualization that was coded by hand is a polar plot depicting the elliptical orbits of all objects in the inner solar system (out to Jupiter), color-coded by orbital class, red for Earth-crossing Apollo asteroids, teal for Amor asteroids, and gold for comets, with Potentially Hazardous Asteroids (PHAs) prominently marked with star symbols, showing how many of these objects have trajectories that intersect Earth's orbital path.
 
 <div id="tackle-opportunity-window" align="center">
   <h2>Tackle Opportunity Window</h2>
