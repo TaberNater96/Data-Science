@@ -45,7 +45,7 @@ This repository showcases a collection of data science projects that show the po
 </div>
 
 <div align="center">
-  <img width="900" height="775" alt="wise-neowise" src="https://github.com/user-attachments/assets/12f51f2b-8235-48e7-9b57-3e5b5501d529" />
+  <img width="900" height="775" alt="wise-neowise" src="https://github.com/user-attachments/assets/4a5832db-ccab-401e-a7b0-fdacfecb4f47" />
 </div>
 
 &nbsp;
