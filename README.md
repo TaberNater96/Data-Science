@@ -40,7 +40,7 @@ This repository showcases a collection of data science projects that show the po
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
 
-<div id="wise-neowise-asteroid-comet-analysis">
+<div id="wise-neowise-asteroid-comet-analysis" align="center">
   <h2>WISE-NEOWISE Asteroid & Comet Analysis</h2>
 </div>
 
