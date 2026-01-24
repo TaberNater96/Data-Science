@@ -7,6 +7,7 @@
 <details>
   <summary><b>Click Here To Navigate To Each Repository<b></summary>
 
+  - [Portland Land Surface Temperature Analysis](https://github.com/TaberNater96/Data-Science/tree/main/Portland%20Surface%20Temperature%20Analysis)
   - [WISE-NEOWISE Asteroid & Comet Analysis](https://github.com/TaberNater96/Data-Science/tree/main/WISE%E2%80%93NEOWISE)
   - [Tackle Opportunity Window](https://github.com/TaberNater96/Data-Science/tree/main/NFL%20Big%20Data%20Bowl%202024)
   - [Dashboards Built Using Tableau & Power BI](https://github.com/TaberNater96/Data-Science/tree/main/Dashboards)
@@ -30,6 +31,7 @@ This repository showcases a collection of data science projects that show the po
 <a name="top"></a>
 ## Table of Contents
 
+- [Portland Land Surface Temperature Analysis](#portland-land-surface-temperature-analysis)
 - [WISE-NEOWISE Asteroid & Comet Analysis](#wise-neowise-asteroid-comet-analysis)
 - [Tackle Opportunity Window](#tackle-opportunity-window)
 - [Dashboards](#dashboards)
@@ -39,6 +41,32 @@ This repository showcases a collection of data science projects that show the po
 - [TensorFlow Regression Challenge](#tensorflow-regression-challenge)
 - [PySpark - Web Crawler Analysis](#pyspark-web-crawler-analysis)
 - [PySpark - Wikipedia Clickstream Data](#pyspark-wikipedia-clickstream-data)
+
+<div id="#portland-land-surface-temperature-analysis" align="center">
+  <h2>Portland Land Surface Temperature Analysis</h2>
+</div>
+
+<div align="center">
+  <img width="1000" height="500" alt="Portland Urban Surface From VIIRS" src="https://github.com/TaberNater96/Data-Science/blob/main/Portland%20Surface%20Temperature%20Analysis/images/lst_opencv_comparison.png?raw=true" />
+</div>
+
+In late June 2021, a heat dome settled over the Pacific Northwest and rewrote the record books—Portland reached 116°F, sidewalks buckled, power cables melted, and over 100 people died in Oregon alone from heat-related causes. That event shattered assumptions about what was thermally possible in a region known for mild, rainy weather, and it exposed a troubling reality: not all neighborhoods suffered equally. While affluent, tree-lined districts remained relatively bearable, lower-income areas with sparse vegetation and aging infrastructure became deadly ovens. Has Portland learned its lesson since then? Since I personally lived in Portland during this historical heat wave, this project hits close to home. Portland LST Analysis aims to harnesses NASA satellite technology to map Portland's thermal landscape across the entire summer of 2025 (June 1 to August 31). 
+
+This project investigates the Urban Heat Island (UHI) phenomenon in the Portland-Vancouver metropolitan area through satellite-based land surface temperature (LST) analysis. Urban Heat Islands occur when metropolitan regions experience significantly higher temperatures than surrounding rural areas due to human activities, building materials that absorb and retain heat, reduced vegetation, and concentrated energy use. The source data for this analysis comes from **NASA's VIIRS (Visible Infrared Imaging Radiometer Suite)** instrument aboard the **Suomi National Polar-orbiting Partnership (Suomi-NPP) satellite**, launched in October 2011 as a joint mission between NASA and NOAA. The VIIRS sensor collects radiometric imagery in 22 spectral bands, with the thermal infrared bands specifically designed to measure land surface temperature. The VNP21A1D product used in this study provides daily daytime LST measurements at 1-kilometer spatial resolution, organized into a global sinusoidal grid tile system. Portland falls within tile h09v04, which covers the Pacific Northwest region including western Oregon and Washington. Each daily granule arrives as an HDF5 file containing calibrated temperature data along with quality assurance flags and geolocation information.
+
+<div align="center">
+  <img width="1000" height="1000" alt="Portland LST Gray Scale" src="https://github.com/TaberNater96/Data-Science/blob/main/Portland%20Surface%20Temperature%20Analysis/images/lst_grayscale.png?raw=true" />
+</div>
+
+This project uses a wide variety of software tools, including the the infamous OpenCV package that is used for computer vision tasks such as edge detection and pixel manipulation (such and sharpening and noise reduction). The above image is a perfect example of how OpenCV can take a very complex 16-bit satellite image with a vast multi-dimensional, and convert it to more manageable 8-bit image that shows sharper contrast in temperature on the surface. This makes it easier not only for humans, but for computer algorithms to spot differences in pixel variations, which directly correlates to surface temperature. The main goals of this project are multifaceted. This analysis quantifies Urban Heat Island Intensity (UHII) by calculating the temperature difference between urban and rural zones, identify persistent hot spots which are areas that consistently exceed the 90th percentile temperature threshold across multiple observation days, detect heat waves through pixel-to-temperature calculations, and examine cooling corridors, particularly along the Columbia and Willamette Rivers, as well as through the Forest Park.
+
+The analytical framework divides the study area into six distinct zones based on land use characteristics and geographic features. The Urban Core zone encompasses downtown Portland and Vancouver, representing the densest built environment. The Suburban zone forms a ring around the urban core, capturing residential and commercial development. Forest Park, one of the largest urban forests in the United States, serves as a reference for vegetated urban land. The Rural zone to the east represents agricultural and low-density areas, while the Mountain zone captures the Cascade foothills extending toward Mount Hood. River Adjacent zones track temperatures along the Columbia and Willamette river corridors. This zonal approach allows direct comparison of thermal conditions across fundamentally different landscape types within the metropolitan region.
+
+<div align="center">
+  <img width="800" height="600" alt="Portland UHI Suite" src="https://github.com/TaberNater96/Data-Science/blob/main/Portland%20Surface%20Temperature%20Analysis/images/portland_uhi_comprehensive_analysis.png?raw=true" />
+</div>
+
+[⬆️ Back to table of contents](#top)
 
 <div id="wise-neowise-asteroid-comet-analysis" align="center">
   <h2>WISE-NEOWISE Asteroid & Comet Analysis</h2>
@@ -51,6 +79,8 @@ This repository showcases a collection of data science projects that show the po
 &nbsp;
 
 This project analyzes 202 near-Earth objects (asteroids and comets) from NASA's WISE-NEOWISE dataset, exploring their orbital characteristics including semi-major axis, eccentricity, perihelion/aphelion distances, orbital inclination, and the Tisserand parameter relative to Jupiter. The analysis involved data cleaning (renaming columns, reorganizing features, and removing redundant log-transformed variables) and classification of objects by orbit type (Apollo, Amor, and comets), eccentricity segment, and potential hazard status. The centerpiece visualization that was coded by hand is a polar plot depicting the elliptical orbits of all objects in the inner solar system (out to Jupiter), color-coded by orbital class, red for Earth-crossing Apollo asteroids, teal for Amor asteroids, and gold for comets, with Potentially Hazardous Asteroids (PHAs) prominently marked with star symbols, showing how many of these objects have trajectories that intersect Earth's orbital path.
+
+[⬆️ Back to table of contents](#top)
 
 <div id="tackle-opportunity-window" align="center">
   <h2>Tackle Opportunity Window</h2>
