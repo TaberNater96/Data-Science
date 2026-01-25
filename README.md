@@ -66,6 +66,31 @@ The analytical framework divides the study area into six distinct zones based on
   <img width="800" height="600" alt="Portland UHI Suite" src="https://github.com/TaberNater96/Data-Science/blob/main/Portland%20Surface%20Temperature%20Analysis/images/portland_uhi_comprehensive_analysis.png?raw=true" />
 </div>
 
+```html
+PORTLAND URBAN HEAT ISLAND RESULTS
+Study Period: 2025-06-01 to 2025-08-31
+Total Days Analyzed: 89
+
+FINDINGS:
+
+1. URBAN HEAT ISLAND INTENSITY
+   Average UHII: 2.99°C
+   Peak UHII: 9.58°C
+   Range: -10.00°C to 9.58°C
+
+2. TEMPERATURE BY ZONE (Sample Date)
+   Hottest: River Adjacent (27.6°C)
+   Coolest: Forest Park (19.9°C)
+   Range: 7.7°C difference
+
+3. PERSISTENT HEAT
+   145,800 pixels with persistent heat
+   10.1% of study area affected
+
+4. COOLING GRADIENT
+   Temperature drop: -4.8°C over 380 km
+```
+
 [⬆️ Back to table of contents](#top)
 
 <div id="wise-neowise-asteroid-comet-analysis" align="center">
