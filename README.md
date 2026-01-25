@@ -143,8 +143,6 @@ Owing to the intrinsic capabilities of a neural network, particularly its adeptn
 <img src="https://github.com/TaberNater96/Data-Science/blob/main/NFL%20Big%20Data%20Bowl%202024/images/Polar%20Histogram.png" width="550" height="500">
 </div>
 
-To speak plainly, I am indeed the first to develop the TOW metric within the field of football analytics, demonstrating an ability to innovate and pioneer new methodologies in the realm of data science. This metric offers a fresh perspective by focusing on the precise moments a player remains within a strategic distance to make a successful tackle, thereby introducing a novel way to evaluate defensive actions. The project not only showcases my technical skills in handling large-scale data and complex statistical models but also highlights my creativity in generating new solutions to analyze performance metrics. By identifying and crafting a new evaluative metric, I have set a new standard in sports analytics for projects to build off of when analyzing tackle metrics, proving my capacity to lead and innovate in the field. This initiative demonstrates not just analytical acumen but also a visionary approach to transforming how data insights drive strategic decisions.
-
 [⬆️ Back to table of contents](#top)
 
 <div id="dashboards" align="center">
