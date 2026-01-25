@@ -22,17 +22,6 @@ class PortlandHeatAnalyzer:
     and calculates various heat metrics. The class is designed to work with VIIRS h09v04 tile data 
     covering the Portland region.
 
-    Capabilities:
-    -----------------
-    - **Zone-based Analysis**: Compare temperatures across different land use types
-    - **UHII Calculation**: Quantify Urban Heat Island Intensity (urban vs. rural difference)
-    - **Hot Spot Detection**: Identify areas exceeding temperature thresholds
-    - **Persistence Tracking**: Find areas that are consistently hot across multiple days
-    - **Gradient Analysis**: Examine temperature changes with distance from urban center
-    - **Cooling Corridors**: Identify linear cooling features (rivers, green spaces)
-    - **Thermal Clustering**: Segment landscape into distinct thermal zones
-    - **Heat Wave Detection**: Identify extended periods of high temperature
-
     Attributes:
     -----------
     tile_shape : tuple of int
@@ -559,4 +548,5 @@ def create_comparison_visualizations(
     plt.savefig(f'{output_prefix}_comprehensive_analysis.png', dpi=200, bbox_inches='tight')
     plt.close()
     
+
     return zone_stats
