@@ -97,6 +97,8 @@ FINDINGS:
   <h2>WISE-NEOWISE Asteroid & Comet Analysis</h2>
 </div>
 
+<a href="https://www.kaggle.com/code/godragons6/wise-neowise-analysis/notebook" target="_blank"><img align="left" alt="Kaggle" title="View Competition Submission" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+
 <div align="center">
   <img width="900" height="775" alt="wise-neowise" src="https://github.com/user-attachments/assets/4a5832db-ccab-401e-a7b0-fdacfecb4f47" />
 </div>
