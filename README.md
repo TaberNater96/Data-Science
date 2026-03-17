@@ -33,6 +33,7 @@ This repository showcases a collection of data science projects that show the po
 
 - [Portland Land Surface Temperature Analysis](#portland-land-surface-temperature-analysis)
 - [WISE-NEOWISE Asteroid & Comet Analysis](#wise-neowise-asteroid-comet-analysis)
+- [ArcGIS Maps](#arcgis-maps)
 - [Tackle Opportunity Window](#tackle-opportunity-window)
 - [Dashboards](#dashboards)
 - [Hybrid Text Summarization Engine](#hybrid-text-summarization-engine)
@@ -109,6 +110,20 @@ This project analyzes 202 near-Earth objects (asteroids and comets) from NASA's 
 
 [⬆️ Back to table of contents](#top)
 
+<div id="arcgis-maps" align="center">
+  <h2>ArcGIS Maps</h2>
+</div>
+
+## Portland Heat Wave Risk Zones 2025
+
+<img width="1280" height="677" alt="ArcGIS - Portland Heat Wave Risk Zones" src="https://github.com/user-attachments/assets/f89e1465-f181-4f04-bc3c-3884f5b456fd" />
+
+### Portland Tree Planting Recommendation Zones
+
+Green points represents current individual trees.
+
+<img width="1280" height="677" alt="ArcGIS - Portland Tree Planting Recommendations" src="https://github.com/user-attachments/assets/66f1182d-4b98-4d4f-9057-9df5dfbcb5b8" />
+
 <div id="tackle-opportunity-window" align="center">
   <h2>Tackle Opportunity Window</h2>
 </div>
@@ -129,7 +144,7 @@ The neural network I developed for this project processes real-time player track
 <img src="https://github.com/TaberNater96/Data-Science/blob/main/NFL%20Big%20Data%20Bowl%202024/images/TOW%20Animation.gif" width="800" height="400">
 </div>
 
-In developing TOW, I leveraged a sophisticated approach to manage the sheer volume of data efficiently. The methodology involved calculating the dynamic Euclidean distance between a defender and the ball carrier across multiple frames, utilizing a vectorized computation method. This innovation not only optimized the processing of vast datasets but also illuminated hidden patterns within the chaotic and fast-paced movements of NFL games. The result is a unique, finely tuned metric that significantly enhances our understanding of defensive tactics and player effectiveness.
+In developing TOW, I used a sophisticated approach to manage the sheer volume of data efficiently. The methodology involved calculating the Euclidean distance between a defender and the ball carrier across multiple frames, utilizing a vectorized computation method. This innovation not only optimized the processing of vast datasets but also illuminated hidden patterns within the chaotic and fast-paced movements of NFL games. The result is a unique, finely tuned metric that significantly enhances our understanding of defensive tactics and player effectiveness.
 
 <div align="center">
 <img src="https://github.com/TaberNater96/Data-Science/blob/main/NFL%20Big%20Data%20Bowl%202024/images/Players/Marshon%20and%20Tyrann.png" width="800" height="90">
