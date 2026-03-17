@@ -124,6 +124,8 @@ Green points represents current individual trees.
 
 <img width="1280" height="677" alt="ArcGIS - Portland Tree Planting Recommendations" src="https://github.com/user-attachments/assets/66f1182d-4b98-4d4f-9057-9df5dfbcb5b8" />
 
+[⬆️ Back to table of contents](#top)
+
 <div id="tackle-opportunity-window" align="center">
   <h2>Tackle Opportunity Window</h2>
 </div>
