@@ -124,6 +124,20 @@ Green points represents current individual trees.
 
 <img width="1280" height="677" alt="ArcGIS - Portland Tree Planting Recommendations" src="https://github.com/user-attachments/assets/66f1182d-4b98-4d4f-9057-9df5dfbcb5b8" />
 
+## Lake Shrinkage due to Drought and Climate Change
+
+View the full story map <a href="https://storymaps.arcgis.com/stories/5940181521b34762a1a1cfacd4acc0bd">here.</a>
+
+This story map features multiple interactive maps that allow users to visually see an interact with a specific location in two different years using a slider. This allows users to immediately see the effects of things like Climate Change by view the same lake, 6 years apart, side by side. This was built using the ArcGIS Online platform and published to their cloud.
+
+### Greate Salt Lake 2019 vs 2025
+<img width="1273" height="634" alt="map2" src="https://github.com/user-attachments/assets/5d15d101-0b00-4e51-becc-cd1707feb846" />
+<img width="1273" height="633" alt="map3" src="https://github.com/user-attachments/assets/9958f8ae-fe43-4370-90b1-f676a6d385f6" />
+
+### Lake Poopó 2019 vs 2025
+<img width="1274" height="633" alt="map4" src="https://github.com/user-attachments/assets/7e69ada8-2b92-479f-b477-7a563bad02ae" />
+<img width="1273" height="584" alt="map5" src="https://github.com/user-attachments/assets/7833a3d4-9563-4b9f-bb7f-631ef163a3eb" />
+
 [⬆️ Back to table of contents](#top)
 
 <div id="tackle-opportunity-window" align="center">
