@@ -189,6 +189,7 @@ Owing to the intrinsic capabilities of a neural network, particularly its adeptn
 
 ## Power BI
 ![Global Renewable Energy Production](https://github.com/user-attachments/assets/bd44313e-a84b-4ef7-b9e5-94472c60f2c7)
+![Electric Vehicle Analysis](https://github.com/TaberNater96/Data-Science/blob/main/Dashboards/Images/Electric%20Vehicle%20Analysis.png?raw=true)
 ![Amazon Video Dashboard](https://github.com/user-attachments/assets/3af68fe9-f5d2-4dd8-afe2-e5e1410f9e64)
 
 ## Tableau
