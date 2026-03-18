@@ -128,7 +128,7 @@ Green points represents current individual trees.
 
 View the full story map <a href="https://storymaps.arcgis.com/stories/5940181521b34762a1a1cfacd4acc0bd">here.</a>
 
-This story map features multiple interactive maps that allow users to visually see an interact with a specific location in two different years using a slider. This allows users to immediately see the effects of things like Climate Change by view the same lake, 6 years apart, side by side. This was built using the ArcGIS Online platform and published to their cloud.
+This story map features multiple interactive maps that allow users to visually see an interact with a specific location in two different years using a slider. This allows users to immediately see the effects of things like Climate Change by viewing the same lake, 6 years apart, side by side. This was built using the ArcGIS Online platform and published to their cloud.
 
 ### Greate Salt Lake 2019 vs 2025
 <img width="1273" height="634" alt="map2" src="https://github.com/user-attachments/assets/5d15d101-0b00-4e51-becc-cd1707feb846" />
